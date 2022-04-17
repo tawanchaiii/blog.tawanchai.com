@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Tawanchaiii Site',
   tagline: 'Code is sexy',
-  url: 'blog.tawanchaiii.tk',
+  url: 'https://blog.tawanchaiii.tk',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
