@@ -11,7 +11,7 @@ image: ./image.jpeg
   <html className="some-extra-html-class" />
   <body className="other-extra-body-class" />
   <meta charSet="utf-8" />
-  <meta http-equiv="content-type" content="text/html; charset=windows-874" />
+  <meta name="language" content="th" />
   <meta property="og:image" content="image.jpeg" />
   <link rel="canonical" href="https://blog.tawanchaiii.tk/cpe-ku-review-2022" />
 </head>

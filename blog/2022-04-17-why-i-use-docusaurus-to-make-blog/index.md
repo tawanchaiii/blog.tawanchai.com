@@ -10,7 +10,6 @@ description: สวัสดีครับ หลายๆคนก็เริ
   <html className="some-extra-html-class" />
   <body className="other-extra-body-class" />
   <meta charSet="utf-8" />
-  <meta http-equiv="content-type" content="text/html; charset=windows-874" />
   <meta property="og:image" content="image.png" />
   <link rel="canonical" href="https://blog.tawanchaiii.tk/why-i-use-docusaurus-to-make-blog" />
 </head>
