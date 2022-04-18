@@ -53,6 +53,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       hideableSidebar: true,
+      metadata: [{name: 'keywords', content: 'blog,computer,ku'}],
       navbar: {
         title: 'Champ\'s blog!',
         logo: {
