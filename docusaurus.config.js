@@ -29,6 +29,9 @@ const config = {
           routeBasePath: '/',
           remarkPlugins: [math],
           rehypePlugins: [katex],
+          readingTime: ({content, defaultReadingTime}) =>
+          defaultReadingTime({content, options: {wordsPerMinute: 60}}),
+          blogSidebarCount: 0,
           // Please change this to your repo.
         },
         theme: {
@@ -46,10 +49,10 @@ const config = {
       crossorigin: 'anonymous',
     },
   ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      hideableSidebar: true,
       navbar: {
         title: 'Champ\'s blog!',
         logo: {
@@ -68,6 +71,7 @@ const config = {
             position: 'right',
           },
         ],
+        hideOnScroll: true,
       },
       footer: {
         style: 'dark',
@@ -91,6 +95,16 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'APP_ID',
+  
+        // Public API key: it is safe to commit it
+        apiKey: 'SEARCH_API_KEY',
+  
+        indexName: 'INDEX_NAME',
+  
       },
     }),
 };
