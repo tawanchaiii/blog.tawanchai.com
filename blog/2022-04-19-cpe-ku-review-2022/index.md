@@ -4,6 +4,14 @@ title: รีวิววิศวคอม ม.เกษตร (บางเข
 authors: champ
 tags: [ku,cpeku,tcas,รีวิววิศวคอมมก,มเกษตร]
 ---
+<head>
+  <html className="some-extra-html-class" />
+  <body className="other-extra-body-class" />
+  <meta charSet="utf-8" />
+  <meta name="keywords" content="ku,university,tcas,มเกษตร,วิศวกรรมคอมพิวเตอร์,วิศวคอม,รีวิว,มก"></meta>
+  <link rel="canonical" href="https://blog.tawanchaiii.tk/cpe-ku-review-2022" />
+</head>
+
 <p align="center">
     <img
     src={require('./image.jpeg').default}
