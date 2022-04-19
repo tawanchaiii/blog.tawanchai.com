@@ -5,6 +5,7 @@ authors: champ
 tags: [blog, docusaurus]
 keywords: [blog,docusaurus]
 description: สวัสดีครับ หลายๆคนก็เริ่มมี blog เป็นของตนเอง โดยจุดประสงค์ของการเขียน blog ของแต่ละคน ก็แตกต่างกันออกไป บางคนก็ต้องการแค่มีข้อความ บางคนต้องการให้มีรูปภาพประกอบด้วย แต่สำหรับ blog สาย tech อย่างพวกเราอาจต้องการอะไรที่มาก เดี๋ยวเราจะลองมา List ดูว่า blog สำหรับเรา ต้องการมีคุณสมบัติอะไรบ้าง ที่แตกต่างจาก blog แบบทั่วๆ ไป 
+image: https://i.imgur.com/qEVZUq2.png
 ---
 <head>
   <html className="some-extra-html-class" />
@@ -14,7 +15,9 @@ description: สวัสดีครับ หลายๆคนก็เริ
   <link rel="canonical" href="https://blog.tawanchaiii.tk/why-i-use-docusaurus-to-make-blog" />
 </head>
 
-![Docusaurus Image](./image.png)
+<p align = "center">
+<img src="https://i.imgur.com/qEVZUq2.png" title="source: imgur.com" />
+</p>
 <p align = "center">
 <i>เจ้าไดโดเสาร์น้อยจะมาเป็นพระเอกของเราในวันนี้</i>
 </p>
