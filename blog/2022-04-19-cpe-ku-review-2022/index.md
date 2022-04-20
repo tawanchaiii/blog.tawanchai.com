@@ -94,8 +94,10 @@ image: https://i.imgur.com/cQ2uKRol.jpg
 ซึ่งเมื่อนิสิตจบปี 3 แล้วนั้น ในช่วงปิดเทอมเราจะต้องไปฝึกงานข้างนอกมหาวิทยาลัยเป็นระยะเวลา 60 วันโดยในขณะตอนที่เราอยู่ปี 3 เนี่ยก็ต้องเริ่มหาที่ฝึกงานกันตั้งแต่ตอนนี้ล่ะครับ ซึ่งในปีที่ผ่านๆ มา ก็จะมีนิสิตที่ได้ไปฝึกงานที่ต่างประเทศอยู่ทุกปีครับ (อาจารย์ที่นี่ contact ดีๆทั้งนั้นครับ ไม่ได้ด้อยไปกว่าที่อื่นแน่นอน)
 
 <p align="center">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUtF_V6DzRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/PUtF_V6DzRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
 </p>
 <p align="center">
     <i>ตัวอย่างบรรยากาศการเรียนในห้อง จากช่อง Youtube ของ <a href="https://www.youtube.com/channel/UCFNaF9TCXu_VIp2AMLsstmQ">อ.ชัยพร</a></i>
