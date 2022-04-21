@@ -59,7 +59,7 @@ const config = {
         title: 'Champ\'s blog!',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/champmoji.png',
         },
         items: [
           {

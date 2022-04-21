@@ -1,6 +1,6 @@
 ---
 slug: cpe-ku-review-2022
-title: รีวิววิศวคอม ม.เกษตร (บางเขน) ในปี 2022
+title: รีวิววิศวะคอม ม.เกษตร (บางเขน) ในปี 2022
 authors: champ
 tags: [ku,cpeku,tcas,รีวิววิศวคอมมก,มเกษตร]
 keywords: [ku,university,tcas,มเกษตร,วิศวกรรมคอมพิวเตอร์,วิศวคอม,รีวิว,มก]
