@@ -10,13 +10,13 @@ const katex = require('rehype-katex');
 const config = {
   title: 'Champ\'s blog',
   tagline: 'Code is sexy',
-  url: 'https://blog.tawanchaiii.tk',
+  url: 'https://blog.tawanchai.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'tawanchaiii', // Usually your GitHub org/user name.
-  projectName: 'blog.tawanchaiii.tk', // Usually your repo name.
+  projectName: 'blog.tawanchai.com', // Usually your repo name.
 
   presets: [
     [
@@ -90,6 +90,21 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Connections',
+            items: [
+              { html: `
+              <a href="https://webring.wonderful.software#blog.tawanchai.com" title="webring">
+                <img
+                  alt="webring"
+                  width="32"
+                  height="32"
+                  src="https://webring.wonderful.software/webring.white.svg"
+                />
+              </a>
+              `},
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Champ Tawanchai`,
       },
@@ -97,16 +112,16 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      algolia: {
-        // The application ID provided by Algolia
-        appId: 'APP_ID',
+      // algolia: {
+      //   // The application ID provided by Algolia
+      //   appId: 'APP_ID',
   
-        // Public API key: it is safe to commit it
-        apiKey: 'SEARCH_API_KEY',
+      //   // Public API key: it is safe to commit it
+      //   apiKey: 'SEARCH_API_KEY',
   
-        indexName: 'INDEX_NAME',
+      //   indexName: 'INDEX_NAME',
   
-      },
+      // },
     }),
 };
 

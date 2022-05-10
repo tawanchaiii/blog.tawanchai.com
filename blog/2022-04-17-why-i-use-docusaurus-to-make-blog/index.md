@@ -12,7 +12,7 @@ image: https://i.imgur.com/qEVZUq2.png
   <body className="other-extra-body-class" />
   <meta charSet="utf-8" />
   <meta property="og:image" content="image.png" />
-  <link rel="canonical" href="https://blog.tawanchaiii.tk/why-i-use-docusaurus-to-make-blog" />
+  <link rel="canonical" href="https://blog.tawanchai.com/why-i-use-docusaurus-to-make-blog" />
 </head>
 
 <p align = "center">

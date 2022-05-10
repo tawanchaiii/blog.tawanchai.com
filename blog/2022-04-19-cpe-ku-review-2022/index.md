@@ -2,7 +2,7 @@
 slug: cpe-ku-review-2022
 title: รีวิววิศวะคอม ม.เกษตร (บางเขน) ในปี 2022
 authors: champ
-tags: [ku,cpeku,tcas,รีวิววิศวคอมมก,มเกษตร]
+tags: [cpeku,tcas]
 keywords: [ku,university,tcas,มเกษตร,วิศวกรรมคอมพิวเตอร์,วิศวคอม,รีวิว,มก]
 description: เนื่องจาก ณ ตอนนี้ที่ผมเริ่มเขียนบทความนี้ขึ้น (เมษายน 2565) จะเป็นช่วงที่ใกล้เข้าสู่ TCAS รอบที่ 3 แล้วเราก็รู้อยู่ว่า รีวิวภาควิชาของเราเนี่ยล่าสุดมันก็ตั้งปี 63 แล้วนะ ซึ่งเราคิดว่ามันก็​ outdated พอสมควร 
 image: https://i.imgur.com/cQ2uKRol.jpg
@@ -13,7 +13,7 @@ image: https://i.imgur.com/cQ2uKRol.jpg
   <meta charSet="utf-8" />
   <meta name="language" content="th" />
   <meta property="og:image" content="https://i.imgur.com/cQ2uKRol.jpg" />
-  <link rel="canonical" href="https://blog.tawanchaiii.tk/cpe-ku-review-2022" />
+  <link rel="canonical" href="https://blog.tawanchai.com/cpe-ku-review-2022" />
 </head>
 
 <p align="center">
