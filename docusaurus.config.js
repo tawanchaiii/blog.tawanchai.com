@@ -9,7 +9,7 @@ const katex = require('rehype-katex');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Champ\'s blog',
-  tagline: 'Code is sexy',
+  tagline: 'The blog of tawanchai 👨🏼‍💻',
   url: 'https://blog.tawanchai.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -29,6 +29,7 @@ const config = {
           routeBasePath: '/',
           remarkPlugins: [math],
           rehypePlugins: [katex],
+          blogDescription: 'The blog of tawanchai'
           readingTime: ({content, defaultReadingTime}) =>
           defaultReadingTime({content, options: {wordsPerMinute: 60}}),
           blogSidebarCount: 0,
