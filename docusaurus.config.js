@@ -29,7 +29,7 @@ const config = {
           routeBasePath: '/',
           remarkPlugins: [math],
           rehypePlugins: [katex],
-          blogDescription: 'The blog of tawanchai'
+          blogDescription: 'The blog of tawanchai',
           readingTime: ({content, defaultReadingTime}) =>
           defaultReadingTime({content, options: {wordsPerMinute: 60}}),
           blogSidebarCount: 0,
