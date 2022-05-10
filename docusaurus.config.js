@@ -54,6 +54,7 @@ const config = {
     ({
       metadata: [{name: 'keywords', content: 'blog,computer,ku'},
                  {name: 'description', content: 'code is sexy.'}],
+      image: 'img/champmoji.png',
       navbar: {
         title: 'Champ\'s blog!',
         logo: {
