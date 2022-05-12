@@ -52,7 +52,9 @@ const config = {
   ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    
     ({
+
       metadata: [{name: 'keywords', content: 'blog,computer,ku'},
                  {name: 'description', content: 'code is sexy.'}],
       image: 'img/champmoji.png',
@@ -75,6 +77,9 @@ const config = {
           },
         ],
         hideOnScroll: true,
+      },
+      colorMode: {
+        defaultMode: 'dark',
       },
       footer: {
         style: 'dark',
