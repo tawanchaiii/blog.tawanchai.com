@@ -69,8 +69,8 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/tawanchaiii',
-            label: 'My CV',
+            href: 'https://resume.tawanchai.com',
+            label: 'Résumé',
             position: 'right',
           },
         ],
